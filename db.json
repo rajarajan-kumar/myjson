@@ -1,0 +1,36 @@
+{
+  "api": [
+    {
+      "name": "Balu",
+      "gender": "Male",
+      "age": 35,
+      "address": "Mayiladuthurai",
+      "city": "Bangalore",
+      "country": "India",
+      "status": "Recovered",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Rajesh",
+      "gender": "Male",
+      "age": "25",
+      "address": "Moovalur",
+      "city": "Bangalore",
+      "country": "India",
+      "status": "Positive",
+      "updated": "2020-04-01T05:58:27.9642",
+      "__v": 0
+    },
+    {
+      "name": "Mujamil",
+      "gender": "Male",
+      "age": 32,
+      "address": "Alandur",
+      "city": "Chennai",
+      "country": "India",
+      "status": "Recovered",
+      "id": 4
+    }
+  ]
+}
